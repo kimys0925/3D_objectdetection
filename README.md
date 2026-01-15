@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Team Members & Workspaces
 
-| 팀원 | Branches |
+| Team | Branches |
 | :---: | :--- |
 | **jeongbin** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/jeongbin) |
 | **jeonseungho** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/jeonseungho) |
